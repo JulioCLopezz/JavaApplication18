@@ -22,6 +22,10 @@ public class JavaApplication18 {
           System.out.println("Somos expertos en Git!");
         
         System.out.println("ahora somos mas arrechos");
+        
+          System.out.println("Somos expertos en Git!");
+        
+        System.out.println("ahora somos mas arrechos");
     }
     
 }
